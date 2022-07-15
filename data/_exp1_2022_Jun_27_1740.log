@@ -1,0 +1,45 @@
+4.6487 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+20.6534 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024E52661BE0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000024E525C51D0>, multiSample=False, name='window1', numSamples=2, pos=[320.0, 180.0], screen=0, size=array([1280,  720]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+20.6537 	EXP 	window1: mouseVisible = True
+20.6537 	EXP 	window1: recordFrameIntervals = False
+20.8182 	EXP 	window1: recordFrameIntervals = True
+21.0033 	EXP 	window1: recordFrameIntervals = False
+21.4318 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+21.5146 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='stimuli/Presentation2.jpg', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.8, 1. ]), texRes=128.0, units='height', win=Window(...))
+21.5166 	DEPRECATION 	'-1.0000, 1.0000, 1.0000' is not a valid rgb color
+21.5169 	DEPRECATION 	'-1.0000, -1.0000, -1.0000' is not a valid rgb color
+21.5187 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.0, name='polygon_2', opacity=0, ori=0.0, pos=array([0., 0.]), size=array([0.5 , 0.75]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+21.5958 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='stimuli/Presentation2.jpg', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.8, 1. ]), texRes=128.0, units='height', win=Window(...))
+21.5977 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+21.6687 	EXP 	Imported _001_reward.csv as conditions, 20 conditions, 3 params
+21.6702 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+21.6712 	EXP 	New trial (rep=0, index=0): OrderedDict([('correctAns', ['left']), ('correct_reward', 6.2), ('wrong_reward', 0.6)])
+21.7871 	EXP 	text_2: autoDraw = False
+21.7871 	EXP 	image: autoDraw = True
+22.0855 	DATA 	Keypress: right
+22.1472 	EXP 	image: autoDraw = False
+22.1472 	EXP 	polygon_2: autoDraw = True
+22.1472 	EXP 	image_2: autoDraw = True
+22.6977 	EXP 	polygon_2: autoDraw = False
+22.6977 	EXP 	image_2: autoDraw = False
+22.6977 	EXP 	polygon_2: autoDraw = False
+22.6977 	EXP 	image_2: autoDraw = False
+22.6977 	EXP 	text: text = 0.6
+22.6977 	EXP 	text: autoDraw = True
+24.1859 	EXP 	New trial (rep=0, index=1): OrderedDict([('correctAns', ['left']), ('correct_reward', 8.6), ('wrong_reward', 3.0)])
+24.2142 	EXP 	text: autoDraw = False
+24.2142 	EXP 	text: autoDraw = False
+24.2142 	EXP 	text_2: autoDraw = False
+24.2142 	EXP 	image: autoDraw = True
+24.5580 	DATA 	Keypress: left
+24.5806 	EXP 	image: autoDraw = False
+24.5806 	EXP 	polygon_2: autoDraw = True
+24.5806 	EXP 	image_2: autoDraw = True
+25.0951 	EXP 	polygon_2: autoDraw = False
+25.0951 	EXP 	image_2: autoDraw = False
+25.0951 	EXP 	polygon_2: autoDraw = False
+25.0951 	EXP 	image_2: autoDraw = False
+25.0951 	EXP 	text: text = 8.6
+25.0951 	EXP 	text: autoDraw = True
+25.7881 	DATA 	Keypress: escape
+25.9702 	EXP 	window1: mouseVisible = True

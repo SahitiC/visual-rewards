@@ -1,0 +1,72 @@
+4.0370 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+8.2107 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000017213341BE0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000172132E6208>, multiSample=False, name='window1', numSamples=2, pos=[320.0, 180.0], screen=0, size=array([1280,  720]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.2109 	EXP 	window1: mouseVisible = True
+8.2110 	EXP 	window1: recordFrameIntervals = False
+8.3762 	EXP 	window1: recordFrameIntervals = True
+8.5594 	EXP 	window1: recordFrameIntervals = False
+8.9435 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.0237 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='stimuli/Presentation2.jpg', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.8, 1. ]), texRes=128.0, units='height', win=Window(...))
+9.1021 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='stimuli/Presentation2.jpg', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.8, 1. ]), texRes=128.0, units='height', win=Window(...))
+9.1036 	DEPRECATION 	'0.0000, 0.0000, 0.0000' is not a valid rgb color
+9.1039 	DEPRECATION 	'-1.0000, -1.0000, -1.0000' is not a valid rgb color
+9.1055 	EXP 	Created polygon_2 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.0, name='polygon_2', opacity=0, ori=0.0, pos=array([ 0.5, -0.3]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...))
+9.1075 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+9.1427 	EXP 	Imported _001_reward.csv as conditions, 20 conditions, 3 params
+9.1430 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+9.1433 	EXP 	New trial (rep=0, index=0): OrderedDict([('correctAns', ['right']), ('correct_reward', 5.9), ('wrong_reward', 2.7)])
+9.1952 	EXP 	text_2: autoDraw = False
+9.1952 	EXP 	image: autoDraw = True
+9.8184 	DATA 	Keypress: left
+9.8322 	EXP 	image: autoDraw = False
+9.8322 	EXP 	image_2: autoDraw = True
+9.8322 	EXP 	polygon_2: autoDraw = True
+10.3548 	EXP 	image_2: autoDraw = False
+10.3548 	EXP 	polygon_2: autoDraw = False
+10.3548 	EXP 	image_2: autoDraw = False
+10.3548 	EXP 	polygon_2: autoDraw = False
+10.3548 	EXP 	text: text = 2.7
+10.3548 	EXP 	text: autoDraw = True
+11.8407 	EXP 	New trial (rep=0, index=1): OrderedDict([('correctAns', ['right']), ('correct_reward', 6.7), ('wrong_reward', 2.1)])
+11.8573 	EXP 	text: autoDraw = False
+11.8573 	EXP 	text: autoDraw = False
+11.8573 	EXP 	text_2: autoDraw = False
+11.8573 	EXP 	image: autoDraw = True
+13.1625 	DATA 	Keypress: right
+13.1903 	EXP 	image: autoDraw = False
+13.1903 	EXP 	image_2: autoDraw = True
+13.1903 	EXP 	polygon_2: autoDraw = True
+13.7030 	EXP 	image_2: autoDraw = False
+13.7030 	EXP 	polygon_2: autoDraw = False
+13.7030 	EXP 	image_2: autoDraw = False
+13.7030 	EXP 	polygon_2: autoDraw = False
+13.7030 	EXP 	text: text = 6.7
+13.7030 	EXP 	text: autoDraw = True
+15.1900 	EXP 	New trial (rep=0, index=2): OrderedDict([('correctAns', ['right']), ('correct_reward', 5.7), ('wrong_reward', 2.8)])
+15.2058 	EXP 	text: autoDraw = False
+15.2058 	EXP 	text: autoDraw = False
+15.2058 	EXP 	text_2: autoDraw = False
+15.2058 	EXP 	image: autoDraw = True
+16.1127 	DATA 	Keypress: left
+16.1215 	EXP 	image: autoDraw = False
+16.1215 	EXP 	image_2: autoDraw = True
+16.1215 	EXP 	polygon_2: autoDraw = True
+16.6342 	EXP 	image_2: autoDraw = False
+16.6342 	EXP 	polygon_2: autoDraw = False
+16.6342 	EXP 	image_2: autoDraw = False
+16.6342 	EXP 	polygon_2: autoDraw = False
+16.6342 	EXP 	text: text = 2.8
+16.6342 	EXP 	text: autoDraw = True
+18.1239 	EXP 	New trial (rep=0, index=3): OrderedDict([('correctAns', ['right']), ('correct_reward', 8.2), ('wrong_reward', 3.3)])
+18.1525 	EXP 	text: autoDraw = False
+18.1525 	EXP 	text: autoDraw = False
+18.1525 	EXP 	text_2: autoDraw = False
+18.1525 	EXP 	image: autoDraw = True
+20.1537 	EXP 	image: autoDraw = False
+20.1537 	EXP 	image_2: autoDraw = True
+20.1537 	EXP 	polygon_2: autoDraw = True
+20.6985 	EXP 	image_2: autoDraw = False
+20.6985 	EXP 	polygon_2: autoDraw = False
+20.6985 	EXP 	text: text = 'Failed to respond'
+20.6985 	EXP 	text: autoDraw = True
+20.7914 	DATA 	Keypress: escape
+20.9550 	EXP 	window1: mouseVisible = True

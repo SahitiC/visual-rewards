@@ -1,0 +1,3 @@
+﻿correctAns,correct_reward,wrong_reward,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,key_resp_2.keys,key_resp.keys,key_resp.corr,key_resp.rt,image.started,image.stopped,image_2.started,image_2.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+['left'],5.8,4.4,0,0,0,0,None,['right'],0,[0.36209160002181306],9.212545999966096,None,9.592636100016534,None,,001,2022_Jun_27_1741,exp1,2021.2.3,60.13637727170207,
+,,,,,,,None,['left'],1,[0.6346723000169732],11.640957899973728,None,12.291428199969232,None,,,,,,,
