@@ -1,7 +1,0 @@
-﻿correctAns,correct_reward,wrong_reward,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,key_resp_2.keys,key_resp.keys,key_resp.corr,image.started,image.stopped,image_2.started,image_2.stopped,participant,session,date,expName,psychopyVersion,frameRate,
-['left'],7.0,1.6,0,0,0,0,None,None,0,10.691318800032604,None,12.667085500026587,None,,001,2022_Jun_27_1747,exp1,2021.2.3,60.35560315935264,
-['left'],4.7,0.1,0,1,1,1,None,None,0,14.651933200017083,None,16.667264199990314,None,,001,2022_Jun_27_1747,exp1,2021.2.3,60.35560315935264,
-['left'],7.9,4.3,0,2,2,2,None,None,0,18.65192490001209,None,20.667348099988885,None,,001,2022_Jun_27_1747,exp1,2021.2.3,60.35560315935264,
-['left'],8.7,0.0,0,3,3,3,None,None,0,22.67930299998261,None,24.694285400037188,None,,001,2022_Jun_27_1747,exp1,2021.2.3,60.35560315935264,
-['left'],7.0,1.6,0,4,4,4,None,None,0,26.692251200031023,None,28.707373399985954,None,,001,2022_Jun_27_1747,exp1,2021.2.3,60.35560315935264,
-,,,,,,,None,None,0,30.689496300008614,None,,,,,,,,,
